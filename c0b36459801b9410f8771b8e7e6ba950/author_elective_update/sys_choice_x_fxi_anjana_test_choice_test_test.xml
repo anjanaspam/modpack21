@@ -35,25 +35,6 @@
             <sys_updated_on>2020-09-15 20:23:35</sys_updated_on>
             <value>Monday</value>
         </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>test</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Tuesday</label>
-            <language>en</language>
-            <name>x_fxi_anjana_test_choice_test</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-09-15 20:24:13</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>1e242499801b9410f8771b8e7e6ba995</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-09-15 20:24:13</sys_updated_on>
-            <value>Tuesday</value>
-        </sys_choice>
     </sys_choice>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="anjana_test_1">c0b36459801b9410f8771b8e7e6ba950</claim_owner_scope>
